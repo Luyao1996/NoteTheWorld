@@ -1,0 +1,4 @@
+logs/
+*.tmp
+.editorlite_write_test
+appconfig.json
