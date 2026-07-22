@@ -1,7 +1,7 @@
-### WebRtc-host
+## webrtc
+1. App 内展示（工信部《APP 备案通知》的要求）
+ 
 
-### NewWeb
-
-### Flutter
-1. 新通道管理
-2. 新角色管理
+## 工具箱
+1. client启动webrtc远程时，如果没有获取到frp域名， 应该报远程启动失败+未获取到xx信息。 现在是直接返回了成功
+ 
